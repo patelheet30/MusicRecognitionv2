@@ -172,6 +172,7 @@ cython_debug/
 
 data/songs
 data/test_files
+data/database
 plots/
 *.sp
 *.pptx
