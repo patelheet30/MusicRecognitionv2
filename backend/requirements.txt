@@ -1,0 +1,15 @@
+numpy
+scipy
+librosa
+pandas
+matplotlib
+pytest
+yt_dlp
+fastapi
+uvicorn
+python-multipart
+soundfile
+pydub
+ffmpeg-python
+python-jose[cryptography]
+audioread
